@@ -9,4 +9,4 @@ Admittedly is a RESTful web service and client library that provides an interfac
 <!-- Fill this later -->
 
 ## Supported Ruby Versions
-<!-- Fill this later -->
+1.9.2 or higher.
